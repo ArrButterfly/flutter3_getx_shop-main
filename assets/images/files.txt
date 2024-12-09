@@ -1,0 +1,8 @@
+static const hotSearchPng = 'assets/images/hot_search.png';
+static const logoPng = 'assets/images/logo.png';
+static const servicePng = 'assets/images/service.png';
+static const userPng = 'assets/images/user.png';
+static const userAd1Png = 'assets/images/user_ad1.png';
+static const userAd2Png = 'assets/images/user_ad2.png';
+static const xiaomiBannerPng = 'assets/images/xiaomiBanner.png';
+static const xiaomiBanner2Png = 'assets/images/xiaomiBanner2.png';
